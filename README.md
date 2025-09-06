@@ -9,7 +9,8 @@
 <img width="1320" height="727" alt="st_2" src="https://github.com/user-attachments/assets/be70f2dd-3b5f-4ce0-ba71-f65e2ee3ee1c" />
 
 ## Data Extracting from Uploaded Resume
-<img width="1269" height="730" alt="st_3" src="https://github.com/user-attachments/assets/fb5778ee-df45-41b6-8072-519579096b16" />
+<img width="1268" height="728" alt="st_3" src="https://github.com/user-attachments/assets/eb815614-a270-4d61-afb8-dee1c29d2bec" />
+
 
 
 
